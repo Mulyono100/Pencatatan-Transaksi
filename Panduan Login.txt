@@ -1,0 +1,7 @@
+User
+Username = Admin
+Password = 123
+
+Kasir
+Username = hani123
+password = admin
